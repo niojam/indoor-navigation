@@ -25,4 +25,4 @@ Trilateration algorithm. That means we need at least 3 detections to calculate M
 If there are not enough records or Mobile Station id is not in DB custom exception is thrown. User can see
 userfriendly output. (see java/ee/wemakesoftware/navigation/error in case of ecxeption and 
 java/ee/wemakesoftware/navigation/pojo/MobileStationPositionDto.java everything is ok)
-3) New coordinates are saved on database.
+3) New coordinates are saved to DB.
